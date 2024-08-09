@@ -1,0 +1,8 @@
+,Course,Fee,Duration,Discount
+0,Spark,20000.0,30days,11.8
+1,Pyspark,30000.0,40days,23.7
+2,Hadoop,20000.0,35days,21.4
+3,Python,25000.0,40days,45.3
+4,Pandas,33000.0,60days,55.0
+5,Oracle,35000.0,50days,12.0
+6,Java,19000.0,55days,13.4
