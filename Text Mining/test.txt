@@ -1,3 +1,0 @@
-This is the new first line
-This line is being appended to test .txt
-And another line here
